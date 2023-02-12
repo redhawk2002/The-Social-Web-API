@@ -1,6 +1,6 @@
 # The Social Web API
 
-**Link** :https://the-social-web-api.onrender.com
+**Link** : https://the-social-web-api.onrender.com
 
 A social media platform API built with **NodeJS** and **MongoDB**. The API supports a variety of features including:
 
